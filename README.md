@@ -3,6 +3,7 @@
 - 🌱 경북대학교 공과대학 응응화학공학부, IT대학 컴퓨터학부 복수전공생이며, 현재로써는 개발자로써의 길에 매진하는 중입니다.
 - 💞️ 인스타 DM으로 연락하실 수 있습니다!
 - 📫 Instagram : @dong__u._.nm
+- github start date : 2022.02.05
 
 <!---
 WhalesBob/WhalesBob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
