@@ -4,7 +4,7 @@
 - 💞️ 인스타 DM으로 연락하실 수 있습니다!
 - 📫 Instagram : @dong__u._.nm
 - github start date : 2022.02.05
-
+- Github를 시작하기 전 공부했던 컴퓨터 공학 관련 지식들 모두, 그리고 앞으로 배워나가는 지식을 모두 업데이트합니다. 
 <!---
 WhalesBob/WhalesBob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
