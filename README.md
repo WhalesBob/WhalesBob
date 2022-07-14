@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsce9806q&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhalesBob&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 꾸준히 공부하는 새로운 개발자이자 스쿠버다이빙 강사 남동우입니다!
 - 👀 개발자로써는 풀스택 개발자를 목표로 하고 있으며, HTML/CSS/JS , C, JAVA, Python 언어를 할 수 있습니다. 
