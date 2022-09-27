@@ -21,6 +21,7 @@
 
 #### Development Framework
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Bixby](https://img.shields.io/badge/bixby-blue.svg?logo=data:image/svg+xml;base64,=&style=for-the-badge)
 
 #### Used At Once
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
