@@ -8,6 +8,8 @@
 - github start date : 2022.02.05
 - Github를 시작하기 전 공부했던 컴퓨터 공학 관련 지식들 모두, 그리고 앞으로 배워나가는 지식을 모두 업데이트합니다. 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWhalesBob%2Fhit-counter&count_bg=%2326D1D3&title_bg=%23555555&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Available Skills & Development Tools
 
 #### Language
