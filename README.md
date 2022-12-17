@@ -24,15 +24,18 @@
 #### Development Framework
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Bixby](https://img.shields.io/badge/bixby-1e88e5.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9Ijk2IiBoZWlnaHQ9Ijk2Ij48cGF0aCBmaWxsPSIjMWU4OGU1IiBkPSJNMzggNDJIMTBhNCA0IDAgMCAxLTQtNFYxMGE0IDQgMCAwIDEgNC00aDI4YTQgNCAwIDAgMSA0IDR2MjhhNCA0IDAgMCAxLTQgNHoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzggMjMuOTk3YzAgMy41OTEtMS40NjYgNi44NDQtMy44NCA5LjE5N0ExMy4xNDIgMTMuMTQyIDAgMCAxIDI0Ljg4MiAzN2gtLjcyM2MtNy4yNDUgMC0xMy4xMTgtNS44MjItMTMuMTE4LTEzLjAwM1YxMS42NTJjMC0uMzYuMjkyLS42NTIuNjUyLS42NTJIMjJhMSAxIDAgMCAxIDEgMXYxNS42MDhjMCAyLjkxMiAyLjA4MSA1LjI3MyA1LjAxOSA1LjI3M2guMjg5YTUuMjk4IDUuMjk4IDAgMCAwIDMuNzYxLTEuNTQ1IDUuMjMyIDUuMjMyIDAgMCAwIDEuNTU4LTMuNzI4YzAtMi45MDctMi4zOC01LjI2Ni01LjMxOS01LjI2NmgtMi4xNDlBMS4xNjIgMS4xNjIgMCAwIDEgMjUgMjEuMTgzVjEyYzAtLjU1Mi42MDctMSAxLjE1OS0xSDI2YzcuMjQ2IDAgMTIgNS44MiAxMiAxMi45OTd6Ii8+PC9zdmc+&style=for-the-badge)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+#### Database
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Used At Once
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### STILL LEARNING(Not try to develop)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 <!---
