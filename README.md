@@ -1,4 +1,4 @@
-### 🐳Hello EveryOne!
+# 🐳Hello EveryOne!
 [![whalesbob's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whalesbob)](https://solved.ac/profile/whalesbob)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhalesBob&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
