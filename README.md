@@ -1,3 +1,6 @@
+### 🐳Hello EveryOne!
+[![whalesbob's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whalesbob)](https://solved.ac/profile/whalesbob)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhalesBob&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 꾸준히 공부하는 새로운 개발자이자 스쿠버다이빙 강사 남동우입니다!
